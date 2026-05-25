@@ -30,7 +30,7 @@
 - **En desarrollo**
 - 🔗 [Ver repositorio](https://github.com/adlfvrr/Basquet_Store)
 
-**Los demás proyectos son pura práctica, tanto acádemica como autodidacta.
+**Los demás proyectos son pura práctica, tanto acádemica como autodidacta.**
 ---
 
 
