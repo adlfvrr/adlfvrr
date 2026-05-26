@@ -1,7 +1,7 @@
 
-<h1 align="center">Hola, soy Adolf 👋<\h1>
+<h1 align="center">Hola, soy Adolf 👋</h1>
 
-<h3 align="center">Backend developer | En formación<\h3>
+<h3 align="center">Backend developer | En formación</h3>
 
 ---
 ## 🙋‍♂️ Sobre mí
@@ -24,7 +24,7 @@
 ---
 ## 💎Proyectos a destacar
 
-### [**Basquet_Store**](https://github.com/adlfvrr/Basquet_Store)<br>
+### [**🏀Basquet_Store**](https://github.com/adlfvrr/Basquet_Store)<br>
 > *Backend API | Catálogo de calzado e indumentaria de básquet | Gestión de carritos, pedidos y autenticación*<br>
 
 - **API Rest** para gestión de tienda de artículos de basquet, tales como calzado e indumentarias.
@@ -36,4 +36,8 @@
 
 ---
 ## 📊Estadísticas en GitHub
-[![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adlfvrr)]
+<p align="center">
+  <a href="https://github.com/adlfvrr">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adlfvrr" alt="Estadísticas">
+  </a>
+</p>
