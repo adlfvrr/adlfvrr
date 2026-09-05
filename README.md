@@ -30,7 +30,6 @@
 - **API Rest** para gestión de tienda de artículos de basquet, tales como calzado e indumentarias.
 - **Stack** compuesto por Java, Spring framework, MongoDB.
 - **Funcionalidades** como carrito, realización de pedidos, filtrado de calzados por marca, talle o tipos de calzado|filtrado de indumentarias por marca, talle o sección, autentificación de usuarios.
-- **En desarrollo**
 
 **Los demás proyectos son pura práctica, tanto acádemica como autodidacta.**
 
